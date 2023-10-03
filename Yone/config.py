@@ -17,7 +17,7 @@ class Config(object):
     OWNER_USERNAME = "sultan11100"
     SUPPORT_CHAT = "Yone_Support"
     JOIN_LOGGER = "-1001841879487"
-    EVENT_LOGS = "-1001908711819"
+    EVENT_LOGS = "-1001841879487"
     BOT_USERNAME = "Kayn_Robot"
     BOT_NAME = "Kayn"
     # 
@@ -40,7 +40,7 @@ class Config(object):
     WORKERS = 20
     ALLOW_EXCL = True
     ALLOW_CHATS = True
-    PHOTO = "https://graph.org/file/37ad05dda303f44c9e27a.jpg" # Miss Poppy Music Pic
+    PHOTO = "https://graph.org/file/b29030496d3224d15cb57.jpg" # Miss Poppy Music Pic
     INFOPIC = True
 
 
