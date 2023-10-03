@@ -12,7 +12,7 @@ class Config(object):
 
     API_ID = "12227067"
     API_HASH = "b463bedd791aa733ae2297e6520302fe"
-    TOKEN = "2027757649:AAHLgxIf1W2YDU6Ghj5sCLSjFqnrAaXEHtQ"
+    TOKEN = "2003992067:AAHzleNmuUPWWugoN13Eajzj4Yt6lJHOU4U"
     OWNER_ID = "2105971379"
     OWNER_USERNAME = "sultan11100"
     SUPPORT_CHAT = "Yone_Support"
