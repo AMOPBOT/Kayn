@@ -57,14 +57,14 @@ if ENV:
         raise Exception("Please Add Hash Api key to start the bot")
 
     DB_URI = os.environ.get("DATABASE_URL","postgres://citus:AbhiModszYT12@c-kora.6xoe5irno5ccbx.postgres.cosmos.azure.com:5432/kora")
-    PHOTO = os.environ.get("PHOTO", "https://graph.org/file/37ad05dda303f44c9e27a.jpg") # Miss Poppy Pic
+    PHOTO = os.environ.get("PHOTO", "https://graph.org/file/b29030496d3224d15cb57.jpg") # Miss Poppy Pic
     WORKERS = int(os.environ.get("WORKERS", 8))
     ALLOW_EXCL = os.environ.get('ALLOW_EXCL', False)
     ALLOW_CHATS = os.environ.get("ALLOW_CHATS", True)
 
     OWNER_USERNAME = os.environ.get("OWNER_USERNAME", "sultan11100")
     SUPPORT_CHAT = os.environ.get("SUPPORT_CHAT", "AM_YTSUPPORT")
-    EVENT_LOGS = os.environ.get("EVENT_LOGS", "-1001908711819")
+    EVENT_LOGS = os.environ.get("EVENT_LOGS", "-1001841879487")
     JOIN_LOGGER = os.environ.get("JOIN_LOGGER", "-1001841879487")
 
     WEBHOOK = bool(os.environ.get("WEBHOOK", False))
