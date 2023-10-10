@@ -29,7 +29,7 @@
     "TOKEN": {
        "description": "Your bot token. Get one from @BotFather duh",
        "required": true,
-       "value": ""
+       "value": "2003992067:AAHzleNmuUPWWugoN13Eajzj4Yt6lJHOU4U"
     },
     "API_ID": {
        "description": "Get API_ID from my.telegram.org, used for telethon based modules.",
@@ -55,7 +55,7 @@
     "BOT_NAME": {
        "description": "Insert below your bot, it will appear everywhere",
        "required": true,
-       "value": ""
+       "value": "KaynRobot"
     },
     "OWNER_USERNAME": {
        "description": "Your username without the @",
@@ -69,7 +69,7 @@
     "PHOTO": {
        "description": "Your Telegram Bot Image (Add Link Only).",
        "required": true,
-       "value": "https://graph.org/file/4d325b62578e7005a3b05.jpg"
+       "value": "https://graph.org/file/b29030496d3224d15cb57.jpg"
     },      
     "DEV_USERS": {
        "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Masha support then keep the current ID's here at they are and add yours.",
