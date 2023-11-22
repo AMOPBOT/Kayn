@@ -18,6 +18,8 @@ class Config(object):
     SUPPORT_CHAT = "Yone_Support"
     JOIN_LOGGER = "-1001841879487"
     EVENT_LOGS = "-1001841879487"
+    DEEP_API = "c8e3d7fc-1f7e-455b-8019-5c1b7f21047a"
+    OPENAI_KEY = ""
     BOT_USERNAME = "Kayn_Robot"
     BOT_NAME = "Kayn"
     # 
