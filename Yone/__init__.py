@@ -56,7 +56,7 @@ if ENV:
     except ValueError:
         raise Exception("Please Add Hash Api key to start the bot")
 
-    DB_URI = os.environ.get("DATABASE_URL","postgres://cbtysxae:AxhFIfnAH0KCMVtOwAUE25shztdqb2P9@peanut.db.elephantsql.com/cbtysxae")
+    DB_URI = os.environ.get("DATABASE_URL","postgres://rpipavlk:Hr_glTUs92xX663g7aFnPdnanBrvZqgh@mahmud.db.elephantsql.com/rpipavlk")
     PHOTO = os.environ.get("PHOTO", "https://graph.org/file/b29030496d3224d15cb57.jpg") # Miss Poppy Pic
     WORKERS = int(os.environ.get("WORKERS", 8))
     ALLOW_EXCL = os.environ.get('ALLOW_EXCL', False)
