@@ -24,7 +24,7 @@ class Config(object):
     BOT_NAME = "Kayn"
     # 
     # DATABASE_URL = "postgres://ixweewbx:9OoB_feF6d6wK1W4YycgwHzRHQXezsNA@arjuna.db.elephantsql.com/ixweewbx"  # sql
-    DATABASE_URL = "postgres://rpipavlk:Hr_glTUs92xX663g7aFnPdnanBrvZqgh@mahmud.db.elephantsql.com/rpipavlk"  # sql
+    DATABASE_URL = "postgres://sywquewx:UQRTM7m32oEOURHxuEFw6SX4hH2SQe9j@peanut.db.elephantsql.com/sywquewx"  # sql
     LOAD = []
     NO_LOAD = []
     WEBHOOK = False
