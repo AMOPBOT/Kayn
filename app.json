@@ -44,7 +44,7 @@
     "DATABASE_URL": {
        "description": "Your postgres sql db, empty this field if you dont have one.",
        "required": false,
-       "value": "postgres://rpipavlk:Hr_glTUs92xX663g7aFnPdnanBrvZqgh@mahmud.db.elephantsql.com/rpipavlk"
+       "value": "postgres://sywquewx:UQRTM7m32oEOURHxuEFw6SX4hH2SQe9j@peanut.db.elephantsql.com/sywquewx"
     },      
     "OWNER_ID": {
        "description": "Your user ID as an integer.",
